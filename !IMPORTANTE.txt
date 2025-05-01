@@ -1,0 +1,81 @@
+            -- Conceitos fundamentais - MACHINE LEARNING: --
+
+Classifição - Regressão - Agrupamentos - Regras de Associação
+
+                            -- OUTROS: --
+
+Detecção de anomalias - Aprendizado por reforço - Processamento de Linguagem Natural(NLP)
+Redes neurais - Redução de dimensionalidade/Seleção de recursos - Aprendizado semisupervisionado
+
+--------------------------------------- Classifição (CAT - STRING) ---------------------------------------
+
+                    -- Medir o Desempenho do Modelo: --
+
+Treino - Validação - Teste
+
+                    -- Tipos de Treino e Teste: --
+
+Hold-Out - Validação Cruzada - Leave-One-Out - K-Fold - Subamostragem
+
+                            -- Metricas: --
+                          Pesquisar formulas
+
+Acurácia - Precisão - Recall - Especificidade - F1 Score - ROC
+
+OBS( Problema de classe rara, Usar todas as metricas, Problema de atributos desconhecidos )
+
+--------------------------------------- Codificação de categorias (CAT) ----------------------------------------
+
+Label encoding - One-hot encoding
+
+
+--------------------------------------- Regressão (NUM) ----------------------------------------
+
+                            -- Metricas: --
+                           Pesquisar formulas
+
+Mean Error(ME) - Mean Absolute Error(MAE) - Root Mean Squared Error(RMSE) - Mean Percentage Error (MPE)
+Mean Absolute Percentage Error(MAPE)
+
+------------------------------ Demensionamento de Caracteristicas (NUM) ------------------------------------
+
+                            -- Metricas: --
+                           Pesquisar formulas
+
+Z-score - Normalização(min-max) - IRIS
+
+
+------------------------------ Fundamentos de Agrupamentos ------------------------------------
+
+Clustering - K-Means e K-Medoid - DBSCAN - Hierárquico
+
+
+------------------------------ Regras de Associação ------------------------------------
+
+Cesta de compras - Detecção de intrusão - Analise de avaliação de consumidores - Diagnóstico médico
+
+                            -- Metricas: --
+                           Pesquisar formulas
+
+Suporte - Confiança - Lift
+
+                            -- Mineração: --
+
+Apriori - FP-Grow
+
+------------------------------ Regressão Linear ------------------------------------
+
+                            -- Metricas: --
+                           Pesquisar formulas
+
+Correlação(R) - Coeficiente de Determinação(R²) - Previsão - Valores Ajustados
+
+             -- Codificações para uso da Regressão Linear: --
+
+Correlações - Coeficiente de Determinação - Residuais padronizados - Pode ser(Simples ou Multipla)
+Colinearidade e Parcimônia - Residuos - Correlograma
+
+                           -- Calculos: --
+                          Pesquisar formulas
+
+Correlação(R) - Inclinação - Interceptação - Previsão
